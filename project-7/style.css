@@ -1,0 +1,16 @@
+.animal {
+    width: 100px;
+    height: 50px;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 15px;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 35px;
+}
+
+.active {
+    border: 1px solid red;
+    color: red;
+}
