@@ -1,0 +1,1 @@
+console.log("Hello from 'magic-8ball.js'!");
