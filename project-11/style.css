@@ -1,0 +1,23 @@
+body {
+    background-color:darkgray
+}
+
+button {
+    background-color:teal;
+    color: white;
+}
+
+.instruct {
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+.message {
+    color:midnightblue;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+}
+
+.numb {
+    font-size: 2em;
+}
