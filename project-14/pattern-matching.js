@@ -11,7 +11,7 @@ button.addEventListener("click", function () {
     if (!inPlay) {
         player();
     }
-})
+});
 
 function player() {
     button.disabled = true;
