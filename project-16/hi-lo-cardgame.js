@@ -82,7 +82,7 @@ function makeCard(card) {
     let curCards = document.querySelectorAll(".card");
     let div = document.createElement("div");
     div.setAttribute("class", "card");
-    div.style.left =  (curCards.length * 25) + "px";
+    div.style.left = "1rem";
     curCardValue = card.value;
     if (card.suit === "hearts" || card.suit === "diams") {
         div.classList.add("red");
